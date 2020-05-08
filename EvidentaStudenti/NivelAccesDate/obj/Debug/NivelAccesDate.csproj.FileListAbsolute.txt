@@ -1,0 +1,9 @@
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\bin\Debug\LibrarieModele.dll
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.pdb

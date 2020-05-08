@@ -1,0 +1,2 @@
+1;Dascaliuc;Adi;Calculatoare;PCLP DEEA2;7 9;3
+2;Vasilescu;Vasile;Calculatoare;PCLP DEEA2;7 8;2

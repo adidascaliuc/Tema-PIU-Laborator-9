@@ -1,0 +1,10 @@
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\bin\Debug\DemoListe.exe.config
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\bin\Debug\DemoListe.exe
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\bin\Debug\DemoListe.pdb
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.csprojAssemblyReference.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.Form1.resources
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.Properties.Resources.resources
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.csproj.GenerateResource.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.csproj.CoreCompileInputs.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.exe
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\DemoListBox\obj\Debug\DemoListe.pdb

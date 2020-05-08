@@ -1,0 +1,15 @@
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csprojAssemblyReference.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.FormularStudent.resources
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.Properties.Resources.resources
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe.config
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.pdb
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
+C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
