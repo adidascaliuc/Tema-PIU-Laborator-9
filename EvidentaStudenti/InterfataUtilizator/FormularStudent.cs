@@ -267,10 +267,6 @@ namespace InterfataUtilizator
             return ProgramStudiu.Program_Inexistent;
         }
 
-        private void FormularStudent_Load(object sender, EventArgs e)
-        {
-
-        }
         
         private void lstAfisare_SelectedIndexChanged(object sender, EventArgs e)
         {

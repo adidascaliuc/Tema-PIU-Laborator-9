@@ -13,3 +13,10 @@ C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtili
 C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CopyComplete
 C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
 C:\Users\Dascaliuc Adi\Desktop\PIU\Lab09_exemple\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csprojAssemblyReference.cache
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.FormularStudent.resources
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.Properties.Resources.resources
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
