@@ -47,13 +47,13 @@ namespace InterfataUtilizator
             this.rdbCalculatoare = new System.Windows.Forms.RadioButton();
             this.rdbAutomatica = new System.Windows.Forms.RadioButton();
             this.lblSpecializare = new System.Windows.Forms.Label();
-            this.ckbPIU = new System.Windows.Forms.CheckBox();
-            this.ckbPOO = new System.Windows.Forms.CheckBox();
-            this.ckbPCLP = new System.Windows.Forms.CheckBox();
+            this.ckbDis5 = new System.Windows.Forms.CheckBox();
+            this.ckbDis3 = new System.Windows.Forms.CheckBox();
+            this.ckbDis1 = new System.Windows.Forms.CheckBox();
             this.lblDiscipline = new System.Windows.Forms.Label();
-            this.ckbDEEA2 = new System.Windows.Forms.CheckBox();
-            this.ckbED = new System.Windows.Forms.CheckBox();
-            this.ckbMEST = new System.Windows.Forms.CheckBox();
+            this.ckbDis2 = new System.Windows.Forms.CheckBox();
+            this.ckbDis4 = new System.Windows.Forms.CheckBox();
+            this.ckbDis6 = new System.Windows.Forms.CheckBox();
             this.gpbDiscipline = new System.Windows.Forms.GroupBox();
             this.lstAfisare = new System.Windows.Forms.ListBox();
             this.lblAnsSudiu = new System.Windows.Forms.Label();
@@ -246,38 +246,38 @@ namespace InterfataUtilizator
             this.lblSpecializare.TabIndex = 17;
             this.lblSpecializare.Text = "Specializarea";
             // 
-            // ckbPIU
+            // ckbDis5
             // 
-            this.ckbPIU.AutoSize = true;
-            this.ckbPIU.Location = new System.Drawing.Point(174, 11);
-            this.ckbPIU.Name = "ckbPIU";
-            this.ckbPIU.Size = new System.Drawing.Size(44, 17);
-            this.ckbPIU.TabIndex = 22;
-            this.ckbPIU.Text = "PIU";
-            this.ckbPIU.UseVisualStyleBackColor = true;
-            this.ckbPIU.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
+            this.ckbDis5.AutoSize = true;
+            this.ckbDis5.Location = new System.Drawing.Point(174, 11);
+            this.ckbDis5.Name = "ckbDis5";
+            this.ckbDis5.Size = new System.Drawing.Size(44, 17);
+            this.ckbDis5.TabIndex = 22;
+            this.ckbDis5.Text = "PIU";
+            this.ckbDis5.UseVisualStyleBackColor = true;
+            this.ckbDis5.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
             // 
-            // ckbPOO
+            // ckbDis3
             // 
-            this.ckbPOO.AutoSize = true;
-            this.ckbPOO.Location = new System.Drawing.Point(90, 12);
-            this.ckbPOO.Name = "ckbPOO";
-            this.ckbPOO.Size = new System.Drawing.Size(49, 17);
-            this.ckbPOO.TabIndex = 21;
-            this.ckbPOO.Text = "POO";
-            this.ckbPOO.UseVisualStyleBackColor = true;
-            this.ckbPOO.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
+            this.ckbDis3.AutoSize = true;
+            this.ckbDis3.Location = new System.Drawing.Point(90, 12);
+            this.ckbDis3.Name = "ckbDis3";
+            this.ckbDis3.Size = new System.Drawing.Size(49, 17);
+            this.ckbDis3.TabIndex = 21;
+            this.ckbDis3.Text = "POO";
+            this.ckbDis3.UseVisualStyleBackColor = true;
+            this.ckbDis3.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
             // 
-            // ckbPCLP
+            // ckbDis1
             // 
-            this.ckbPCLP.AutoSize = true;
-            this.ckbPCLP.Location = new System.Drawing.Point(12, 11);
-            this.ckbPCLP.Name = "ckbPCLP";
-            this.ckbPCLP.Size = new System.Drawing.Size(53, 17);
-            this.ckbPCLP.TabIndex = 20;
-            this.ckbPCLP.Text = "PCLP";
-            this.ckbPCLP.UseVisualStyleBackColor = true;
-            this.ckbPCLP.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
+            this.ckbDis1.AutoSize = true;
+            this.ckbDis1.Location = new System.Drawing.Point(12, 11);
+            this.ckbDis1.Name = "ckbDis1";
+            this.ckbDis1.Size = new System.Drawing.Size(53, 17);
+            this.ckbDis1.TabIndex = 20;
+            this.ckbDis1.Text = "PCLP";
+            this.ckbDis1.UseVisualStyleBackColor = true;
+            this.ckbDis1.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
             // 
             // lblDiscipline
             // 
@@ -288,47 +288,47 @@ namespace InterfataUtilizator
             this.lblDiscipline.TabIndex = 19;
             this.lblDiscipline.Text = "Discipline";
             // 
-            // ckbDEEA2
+            // ckbDis2
             // 
-            this.ckbDEEA2.AutoSize = true;
-            this.ckbDEEA2.Location = new System.Drawing.Point(12, 35);
-            this.ckbDEEA2.Name = "ckbDEEA2";
-            this.ckbDEEA2.Size = new System.Drawing.Size(61, 17);
-            this.ckbDEEA2.TabIndex = 23;
-            this.ckbDEEA2.Text = "DEEA2";
-            this.ckbDEEA2.UseVisualStyleBackColor = true;
-            this.ckbDEEA2.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
+            this.ckbDis2.AutoSize = true;
+            this.ckbDis2.Location = new System.Drawing.Point(12, 35);
+            this.ckbDis2.Name = "ckbDis2";
+            this.ckbDis2.Size = new System.Drawing.Size(61, 17);
+            this.ckbDis2.TabIndex = 23;
+            this.ckbDis2.Text = "DEEA2";
+            this.ckbDis2.UseVisualStyleBackColor = true;
+            this.ckbDis2.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
             // 
-            // ckbED
+            // ckbDis4
             // 
-            this.ckbED.AutoSize = true;
-            this.ckbED.Location = new System.Drawing.Point(90, 36);
-            this.ckbED.Name = "ckbED";
-            this.ckbED.Size = new System.Drawing.Size(41, 17);
-            this.ckbED.TabIndex = 24;
-            this.ckbED.Text = "ED";
-            this.ckbED.UseVisualStyleBackColor = true;
-            this.ckbED.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
+            this.ckbDis4.AutoSize = true;
+            this.ckbDis4.Location = new System.Drawing.Point(90, 36);
+            this.ckbDis4.Name = "ckbDis4";
+            this.ckbDis4.Size = new System.Drawing.Size(41, 17);
+            this.ckbDis4.TabIndex = 24;
+            this.ckbDis4.Text = "ED";
+            this.ckbDis4.UseVisualStyleBackColor = true;
+            this.ckbDis4.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
             // 
-            // ckbMEST
+            // ckbDis6
             // 
-            this.ckbMEST.AutoSize = true;
-            this.ckbMEST.Location = new System.Drawing.Point(172, 36);
-            this.ckbMEST.Name = "ckbMEST";
-            this.ckbMEST.Size = new System.Drawing.Size(56, 17);
-            this.ckbMEST.TabIndex = 25;
-            this.ckbMEST.Text = "MEST";
-            this.ckbMEST.UseVisualStyleBackColor = true;
-            this.ckbMEST.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
+            this.ckbDis6.AutoSize = true;
+            this.ckbDis6.Location = new System.Drawing.Point(172, 36);
+            this.ckbDis6.Name = "ckbDis6";
+            this.ckbDis6.Size = new System.Drawing.Size(56, 17);
+            this.ckbDis6.TabIndex = 25;
+            this.ckbDis6.Text = "MEST";
+            this.ckbDis6.UseVisualStyleBackColor = true;
+            this.ckbDis6.CheckedChanged += new System.EventHandler(this.ckbDiscipline_CheckedChanged);
             // 
             // gpbDiscipline
             // 
-            this.gpbDiscipline.Controls.Add(this.ckbMEST);
-            this.gpbDiscipline.Controls.Add(this.ckbPCLP);
-            this.gpbDiscipline.Controls.Add(this.ckbED);
-            this.gpbDiscipline.Controls.Add(this.ckbPOO);
-            this.gpbDiscipline.Controls.Add(this.ckbDEEA2);
-            this.gpbDiscipline.Controls.Add(this.ckbPIU);
+            this.gpbDiscipline.Controls.Add(this.ckbDis6);
+            this.gpbDiscipline.Controls.Add(this.ckbDis1);
+            this.gpbDiscipline.Controls.Add(this.ckbDis4);
+            this.gpbDiscipline.Controls.Add(this.ckbDis3);
+            this.gpbDiscipline.Controls.Add(this.ckbDis2);
+            this.gpbDiscipline.Controls.Add(this.ckbDis5);
             this.gpbDiscipline.Location = new System.Drawing.Point(97, 193);
             this.gpbDiscipline.Margin = new System.Windows.Forms.Padding(2);
             this.gpbDiscipline.Name = "gpbDiscipline";
@@ -367,6 +367,7 @@ namespace InterfataUtilizator
             this.cmbAnStudiu.Name = "cmbAnStudiu";
             this.cmbAnStudiu.Size = new System.Drawing.Size(121, 21);
             this.cmbAnStudiu.TabIndex = 29;
+            this.cmbAnStudiu.SelectedIndexChanged += new System.EventHandler(this.cmbAnStudiu_SelectedIndexChanged);
             // 
             // FormularStudent
             // 
@@ -394,7 +395,6 @@ namespace InterfataUtilizator
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormularStudent";
             this.Text = "Administrare studenti";
-            this.Load += new System.EventHandler(this.FormularStudent_Load);
             this.gpbProgrameStudiu.ResumeLayout(false);
             this.gpbProgrameStudiu.PerformLayout();
             this.gpbDiscipline.ResumeLayout(false);
@@ -421,16 +421,16 @@ namespace InterfataUtilizator
         private System.Windows.Forms.RadioButton rdbCalculatoare;
         private System.Windows.Forms.RadioButton rdbAutomatica;
         private System.Windows.Forms.Label lblSpecializare;
-        private System.Windows.Forms.CheckBox ckbPIU;
-        private System.Windows.Forms.CheckBox ckbPOO;
-        private System.Windows.Forms.CheckBox ckbPCLP;
+        private System.Windows.Forms.CheckBox ckbDis5;
+        private System.Windows.Forms.CheckBox ckbDis3;
+        private System.Windows.Forms.CheckBox ckbDis1;
         private System.Windows.Forms.Label lblDiscipline;
         private System.Windows.Forms.RadioButton rdbInginerieE;
         private System.Windows.Forms.RadioButton rdbElectronica;
         private System.Windows.Forms.RadioButton rdbElectrotehnica;
-        private System.Windows.Forms.CheckBox ckbDEEA2;
-        private System.Windows.Forms.CheckBox ckbED;
-        private System.Windows.Forms.CheckBox ckbMEST;
+        private System.Windows.Forms.CheckBox ckbDis2;
+        private System.Windows.Forms.CheckBox ckbDis4;
+        private System.Windows.Forms.CheckBox ckbDis6;
         private System.Windows.Forms.GroupBox gpbDiscipline;
         private System.Windows.Forms.ListBox lstAfisare;
         private System.Windows.Forms.Label lblAnsSudiu;

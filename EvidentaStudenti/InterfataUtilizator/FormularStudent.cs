@@ -169,12 +169,12 @@ namespace InterfataUtilizator
             rdbElectronica.Checked = false;
             rdbElectrotehnica.Checked = false;
             rdbInginerieE.Checked = false;
-            ckbPCLP.Checked = false;
-            ckbPOO.Checked = false;
-            ckbPIU.Checked = false;
-            ckbDEEA2.Checked = false;
-            ckbED.Checked = false;
-            ckbMEST.Checked = false;
+            ckbDis1.Checked = false;
+            ckbDis3.Checked = false;
+            ckbDis5.Checked = false;
+            ckbDis2.Checked = false;
+            ckbDis4.Checked = false;
+            ckbDis6.Checked = false;
             disciplineSelectate.Clear();
             lblMesaj.Text = string.Empty; 
         }
@@ -278,6 +278,49 @@ namespace InterfataUtilizator
 
             cmbAnStudiu.Text = Convert.ToString( s.AnStudiu );
             
+        }
+
+        private void cmbAnStudiu_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if(cmbAnStudiu.SelectedIndex + 1 == 1)
+            {
+                ckbDis1.Text = "AM";
+                ckbDis2.Text = "PLCP2";
+                ckbDis3.Text = "GAC";
+                ckbDis4.Text = "PL";
+                ckbDis5.Text = "ETH";
+                ckbDis6.Text = "ASC";
+            }
+
+            if (cmbAnStudiu.SelectedIndex + 1 == 2)
+            {
+                ckbDis1.Text = "POO";
+                ckbDis2.Text = "PLCP3";
+                ckbDis3.Text = "PIU";
+                ckbDis4.Text = "MN";
+                ckbDis5.Text = "MEST";
+                ckbDis6.Text = "ED";
+            }
+
+            if (cmbAnStudiu.SelectedIndex + 1 == 3)
+            {
+                ckbDis1.Text = "PALG";
+                ckbDis2.Text = "PAWEB";
+                ckbDis3.Text = "BD";
+                ckbDis4.Text = "IA";
+                ckbDis5.Text = "PNI";
+                ckbDis6.Text = "MCE";
+            }
+
+            if (cmbAnStudiu.SelectedIndex + 1 == 4)
+            {
+                ckbDis1.Text = "PVLSI";
+                ckbDis2.Text = "IOT";
+                ckbDis3.Text = "MM";
+                ckbDis4.Text = "DOM";
+                ckbDis5.Text = "RF";
+                ckbDis6.Text = "CSI";
+            }
         }
     }
 }

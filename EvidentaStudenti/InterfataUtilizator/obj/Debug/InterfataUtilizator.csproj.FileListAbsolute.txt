@@ -20,3 +20,11 @@ D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\In
 D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
 D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
 D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe.config
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.pdb
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+D:\GitHub\Tema-PIU-Laborator-9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CopyComplete
